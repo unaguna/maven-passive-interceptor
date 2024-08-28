@@ -6,7 +6,7 @@ plugins {
 }
 
 group = "jp.unaguna"
-version = "0.0.1-SNAPSHOT"
+version = "0.0.1"
 
 java {
 	toolchain {
